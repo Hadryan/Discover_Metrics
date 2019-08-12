@@ -24,6 +24,3 @@ def exploratory_data_analysis():
         plt.title(str(liked_dataset.iloc[0:,i].values[0]) + ' for Liked and Disliked Songs')
         plt.legend(["Liked", "Disliked"])
         plt.show()
-
-
-exploratory_data_analysis()
