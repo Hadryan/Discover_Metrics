@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-# This function will display the exploratory data analysis for 
+# This function will display the exploratory data analysis for a user's liked vs disliked songs, as a bar graph for each
+# metric listed in the Spotify API
 
 
 def exploratory_data_analysis():
